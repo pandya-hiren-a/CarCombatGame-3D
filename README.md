@@ -1,5 +1,10 @@
 # CarCombat-3D-Game
 
+### Update: 
+#### - Large files are now tracked using git-lfs
+#### - DeLorean full car model with gun mounted on. Gun control using mouse, car control through keyboard. Settings can be changed from within the game itself.
+#### - Game is now complete with time constraints, 15+ turrets, hazardous elements on the map
+
 ### Cab combat game being built using Unreal engine utilising c++ and blueprints. The objective of the game is to avoid hazards scattered across the map such as lava, river, land mines, while destroying the turrets present at different locations.
 
 ### The game is currently under development
